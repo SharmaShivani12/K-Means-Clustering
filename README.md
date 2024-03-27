@@ -11,7 +11,7 @@ Output:
 
 
 
-This function is adapted from Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]
+This function is adapted from the udemy course Machine Learning A-Z: AI, Python & R + ChatGPT Prize 
 
 
 
